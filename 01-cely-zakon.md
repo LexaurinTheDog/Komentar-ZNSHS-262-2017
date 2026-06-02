@@ -419,6 +419,11 @@ Smyslem je vytvořit **first-mover advantage** pro kartelistu, který se s pošk
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — 18. 6. 2024, kat. A
+  > „Pro řešení otázek promlčení nároku na náhradu újmy způsobené porušením práva Evropské unie se zásadně použijí pravidla vtělená do zákona č. 82/1998 Sb., vyjma těch situací, kde by takové použití odporovalo zásadám rovnocennosti a efektivity"
+
 #### 5letá lhůta — speciální vůči OZ
 
 § 9 odst. 1 zavádí **speciální promlčecí lhůtu 5 let** (transpozice čl. 10 ADD). Vylučuje obecnou subjektivní lhůtu **3 let** (§ 629 OZ) i objektivní lhůtu **10 let / 15 let** (§ 636 OZ). Speciální lhůta je **jednotná** — není dělena na subjektivní a objektivní složku, byť počátek jejího běhu je vázán na subjektivní vědomí poškozeného.
@@ -1030,6 +1035,11 @@ Povinnosti uložené v rámci disclosure **nelze vymáhat exekučně** — jejic
 > *Řízení o náhradě škody způsobené omezováním hospodářské soutěže, jakož i řízení o nárocích škůdců, kteří jsou zavázáni k náhradě škody společně a nerozdílně, na vypořádání podle tohoto zákona, zahájená po dni 25. prosince 2014 se dokončí podle tohoto zákona; právní účinky úkonů, které byly v řízení učiněny přede dnem nabytí účinnosti tohoto zákona, zůstávají zachovány.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — 18. 6. 2024, kat. A
+  > „Pro řešení otázek promlčení nároku na náhradu újmy způsobené porušením práva Evropské unie se zásadně použijí pravidla vtělená do zákona č. 82/1998 Sb., vyjma těch situací, kde by takové použití odporovalo zásadám rovnocennosti a efektivity"
 
 #### Datum 25. prosince 2014 — vstup ADD v platnost
 
