@@ -717,7 +717,7 @@ Smyslem je vytvořit **first-mover advantage** pro kartelistu, který se s pošk
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — 18. 6. 2024, kat. A
+- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — kat. A, 18. 6. 2024
   > „Pro řešení otázek promlčení nároku na náhradu újmy způsobené porušením práva Evropské unie se zásadně použijí pravidla vtělená do zákona č. 82/1998 Sb., vyjma těch situací, kde by takové použití odporovalo zásadám rovnocennosti a efektivity"
 
 #### 5letá lhůta — speciální vůči OZ
@@ -2333,7 +2333,7 @@ Povinnosti uložené v rámci disclosure **nelze vymáhat exekučně** — jejic
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — 18. 6. 2024, kat. A
+- *NS* [30 Cdo 912/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/91C62D0A9A22C06CC1258B6D004D19F7?openDocument) — kat. A, 18. 6. 2024
   > „Pro řešení otázek promlčení nároku na náhradu újmy způsobené porušením práva Evropské unie se zásadně použijí pravidla vtělená do zákona č. 82/1998 Sb., vyjma těch situací, kde by takové použití odporovalo zásadám rovnocennosti a efektivity"
 
 #### Datum 25. prosince 2014 — vstup ADD v platnost
