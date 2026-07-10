@@ -18,3 +18,7 @@
 
 ## Vazby
 [OZ 89/2012](/home/vojtech/Komentar-OZ-89-2012/) §§ 2894+, 143/2001 (ZOHS — paralela, ÚOHS), [OSŘ 99/1963](/home/vojtech/Komentar-OSR-99-1963/).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
