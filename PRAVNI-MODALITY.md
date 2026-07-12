@@ -141,3 +141,118 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | určí; rozhodne; uloží; soud může | [§ 4](https://e-sbirka.gov.cz/sb/2017/262#par_4); [§ 8](https://e-sbirka.gov.cz/sb/2017/262#par_8); [§ 10](https://e-sbirka.gov.cz/sb/2017/262#par_10); [§ 14](https://e-sbirka.gov.cz/sb/2017/262#par_14); [§ 15](https://e-sbirka.gov.cz/sb/2017/262#par_15) |
 | Oprávnění a povinnost | je povinen; povinnost; musí; jsou povinni | [§ 5](https://e-sbirka.gov.cz/sb/2017/262#par_5); [§ 10](https://e-sbirka.gov.cz/sb/2017/262#par_10); [§ 11](https://e-sbirka.gov.cz/sb/2017/262#par_11); [§ 12](https://e-sbirka.gov.cz/sb/2017/262#par_12) |
 | Domněnky, fikce a účinkové konstrukce | má se za to | [§ 3](https://e-sbirka.gov.cz/sb/2017/262#par_3); [§ 10](https://e-sbirka.gov.cz/sb/2017/262#par_10); [§ 30](https://e-sbirka.gov.cz/sb/2017/262#par_30) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 262/2017 Sb., o náhradě škody v oblasti hospodářské soutěže (ZNSHS) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Deontická logika a právní teorie rozlišují dvě roviny, v nichž lze o modalitách právního textu uvažovat. V rovině **objektivních modalit** popisujeme normu z hlediska toho, jaký deontický operátor na jednání dopadá: příkaz (jednání je povinné), zákaz (jednání je zakázané, tj. povinné se ho zdržet) a dovolení (jednání je dovolené, není zakázané ani přikázané). Tyto tři operátory jsou navzájem definovatelné negací a tvoří klasický deontický čtverec (příkaz — zákaz — dovolení — dispenz). Zvláštní postavení mají **zmocňovací (kompetenční) normy**: nezakládají bezprostředně příkaz ani zákaz určitého chování, nýbrž přiznávají určitému subjektu (typicky soudu, resp. předsedovi senátu) *pravomoc* založit, změnit nebo zrušit právní poměry — konstituují způsobilost vydat individuální akt s určitými účinky. V ZNSHS jsou kompetenční normy vázány k procesnímu institutu zpřístupnění dokumentů (disclosure), kde soud teprve svým usnesením modalitu konkretizuje.
+
+V rovině **subjektivních modalit** popisujeme tentýž normativní vztah z pohledu jeho účastníků jako pár **oprávnění — povinnost**. Tyto dvě modality jsou korelativní (Hohfeldova korelace): oprávnění jednoho subjektu má obvykle protějšek v povinnosti subjektu druhého a naopak. Zákon o náhradě škody v oblasti hospodářské soutěže je institucionálně vystavěn právě na této korelaci — nároku poškozeného (oprávnění na náhradu, oprávnění namítat přenesení) odpovídá povinnost škůdce nahradit škodu, popřípadě procesní povinnosti účastníka (složit jistotu, zpřístupnit dokumenty).
+
+**Normativní výrazy** jsou jazykové ukazatele modality: slovesa a spojení jako „nahradí", „je vázán", „je povinen", „nesmí", „nelze", „nemohou být", „může", „uloží povinnost". Nejde o mechanické přiřazení — týž výraz může nést různou modalitu podle kontextu (např. „uloží" v kompetenční normě značí pravomoc soudu, nikoli přímý příkaz adresátovi). Proto se v tabulkách níže vždy uvádí jak normativní výraz, tak jeho význam v systému předpisu.
+
+Samostatnou kategorií jsou **domněnky a fikce**. Vyvratitelná domněnka (praesumptio iuris) váže na osvědčení jedné skutečnosti závěr o skutečnosti druhé, dokud není prokázán opak — přenáší tedy důkazní břemeno. Nevyvratitelná domněnka (praesumptio iuris et de iure) opak nepřipouští. Fikce (fictio iuris) prohlašuje za existující něco, co se buď nestalo, anebo o čem se skutkově ví, že tomu tak není, a činí tak zpravidla jako procesní následek (sankci) určitého jednání. ZNSHS pracuje s oběma nástroji: hmotněprávními vyvratitelnými domněnkami (domněnka vzniku škody u kartelu, domněnka přenesení navýšení ve prospěch nepřímého odběratele) i procesní fikcí prokázání skutečnosti jako sankcí za nesplnění povinnosti zpřístupnit dokumenty. Společným jmenovatelem je vždy zásah do rozložení důkazního břemene ve prospěch strany, která je typicky v informační nevýhodě.
+
+### Příkaz
+
+Příkazové normy ZNSHS vymezují jádro hmotněprávní a procesní odpovědnosti tam, kde zákon nedává soudu ani stranám prostor pro úvahu o tom, *zda* povinnost nastane. Charakteristickým rysem je kategorický normativní výraz ve třetí osobě („nahradí", „je vázán"), který nesnese modifikaci dohodou stran ani soudní diskrecí. V systému zákona plní příkazy dvojí funkci: rozvrhují odpovědnostní vztah mezi více škůdci (solidarita) a determinují vázanost civilního soudu předchozím veřejnoprávním rozhodnutím o porušení soutěžního práva.
+
+Nejvýraznějším příkazem je solidární odpovědnost členů kartelu (§ 5 odst. 1). Zákon zde nejen ukládá povinnost nahradit škodu „společně a nerozdílně", ale současně výslovně zapovídá soudu, aby odpovědnost rozdělil podle míry účasti jednotlivých škůdců na následku — jde tak o dvojitý příkaz (pozitivní i negativní). Druhým pilířem je vázanost soudu rozhodnutím orgánů ochrany hospodářské soutěže (§ 27 odst. 1), která u tzv. follow-on žalob de facto přesouvá otázku protiprávnosti mimo civilní řízení a činí z něj spor převážně o výši škody a příčinnou souvislost.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 5 odst. 1 | nahradí … společně a nerozdílně | „nahradí tito škodu společně a nerozdílně; soud nemůže rozhodnout, že škůdce nahradí škodu podle své účasti na škodlivém následku." | Solidární odpovědnost všech členů kartelu; zákaz dělit odpovědnost podle míry účasti. |
+| § 27 odst. 1 | je vázán rozhodnutím | „Soud je v řízení o náhradě škody vázán rozhodnutím jiného soudu, Úřadu pro ochranu hospodářské soutěže a Evropské komise o tom, že došlo k omezování hospodářské soutěže a kdo se jej dopustil." | Binding effect tuzemského rozhodnutí; zásadní usnadnění follow-on žalob. |
+
+Časové mantinely takto usnadněného uplatnění nároku dokresluje judikatura k promlčení, jež propojuje soutěžní náhradu škody s obecným režimem odpovědnosti za škodu při výkonu veřejné moci.
+
+- *NS* [30 Cdo 912/2024](judikatura/NS-30-Cdo-912-2024.md) — rozhodnutí ze dne 18. 6. 2024, kat. A, heslo „Promlčení Právo Evropské unie" (§ 9, § 36)
+  > „Pro řešení otázek promlčení nároku na náhradu újmy způsobené porušením práva Evropské unie se zásadně použijí pravidla vtělená do zákona č. 82/1998 Sb., vyjma těch situací, kde by takové použití odporovalo zásadám rovnocennosti a efektivity."
+
+### Zákaz
+
+Zákazové normy vytyčují hranice, které nesmí být překročeny ani soudem, ani stranou. Rozeznáváme mezi nimi zákazy hmotněprávní (omezení výše náhrady) a zákazy procesní ochranné povahy (nedostupnost určitých dokumentů, nevykonatelnost některých povinností). Normativní výrazy jsou záporné a modálně silné: „nesmí vést", „nelze", „nemohou být".
+
+Hmotněprávní zákaz nadměrného (punitivního) odškodnění (§ 4 odst. 1) ohraničuje princip plné náhrady shora a odlišuje český model od amerických treble damages. Procesní zákazy chrání dva různé zájmy: absolutní ochranu leniency a settlement prohlášení (§ 15 odst. 1), bez níž by program shovívavosti ztratil atraktivitu, a vyloučení exekučního vymáhání disclosure povinností (§ 35), jehož nesplnění se sankcionuje jinými nástroji (pokuty, procesní fikce), nikoli výkonem rozhodnutí.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 4 odst. 1 | nesmí vést | „Náhrada škody nesmí vést k nadměrnému odškodnění." | Vyloučení nadměrného (punitivního) odškodnění; ohraničení plné náhrady shora. |
+| § 15 odst. 1 | nelze zpřístupnit | „Nelze zpřístupnit důvěrné informace podle § 2 odst. 2 písm. a) nebo b)." | Absolutní ochrana leniency a settlement prohlášení; trvalé vynětí z disclosure. |
+| § 35 | nemohou být předmětem výkonu | „a povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství nemohou být předmětem výkonu rozhodnutí nebo exekuce." | Vyloučení exekučního vymáhání disclosure povinností a povinnosti mlčenlivosti. |
+
+Smysl absolutní ochrany podle § 15 potvrzuje i správní soudnictví, které tuto úpravu čte v systémové souvislosti se zákonem o ochraně hospodářské soutěže.
+
+- *NSS* [29 A 120/2020 - 89](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670678) — rozsudek ze dne 25.05.2021 (§ 15)
+  > „Smysl a účel právní úpravy § 21c odst. 5 in fine zákona o ochraně hospodářské soutěže je dle žalovaného třeba rovněž nalézat v systémové interpretační souvislosti smyslu a účelu právní úpravy § 15 zákona č. 262/2017 Sb., o náhradě škody v oblasti hospodářské soutěže"
+
+### Dovolení
+
+Dovolení (diskreční oprávnění) přiznává soudu prostor pro uvážení, zda a v jaké intenzitě určitý nástroj použije. Na rozdíl od příkazu zde normativní výraz „může" signalizuje, že následek není automatický, nýbrž závisí na posouzení soudu v konkrétní věci. V ZNSHS je diskrece koncentrována u vynucování disclosure: soud může sankcionovat toho, kdo povinnost zpřístupnit dokumenty nesplní.
+
+Pokuta podle § 20 odst. 1 je typickým příkladem — zákon stanoví horní hranici (alternativně pevnou částku, nebo procento z čistého obratu), avšak konkrétní výši i samotné uložení ponechává na úvaze předsedy senátu. Dovolení zde plní funkci vynucovacího mechanismu, jenž teprve dává procesním povinnostem reálnou účinnost.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 20 odst. 1 | může uložit pokutu | „může předseda senátu usnesením uložit pokutu do výše 10 000 000 Kč nebo do výše 1 % jeho čistého obratu dosaženého za poslední ukončené účetní období." | Diskreční pravomoc sankcionovat porušení povinnosti zpřístupnit dokumenty. |
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy nezakládají přímý příkaz adresátovi, nýbrž konstituují pravomoc soudu založit určité právní povinnosti individuálním aktem. Charakteristickým znakem je vazba modality na podmínky výkonu pravomoci — soud „uloží" povinnost jen tehdy, jsou-li splněny zákonné předpoklady (nezbytnost a přiměřenost).
+
+Klíčovou kompetenční normou je § 10 odst. 1, opravňující předsedu senátu uložit ještě před zahájením sporu povinnost zpřístupnit důkazní dokumenty. Modalita je zde podmíněná: pravomoc se aktivuje jen v mezích nezbytnosti a přiměřenosti k uplatnění práva navrhovatele na náhradu škody, čímž zákon vestavuje do samotné kompetenční normy test proporcionality.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 10 odst. 1 | uloží usnesením povinnost | „uloží, je-li to nezbytné a přiměřené k uplatnění práva navrhovatele na náhradu škody, usnesením povinnost" | Pravomoc soudu uložit před zahájením sporu povinnost zpřístupnit dokumenty (disclosure). |
+
+### Oprávnění a povinnost
+
+Korelativní pár oprávnění a povinnosti tvoří subjektivní stránku modalit v ZNSHS. Oprávnění dává účastníkovi možnost (nikoli nutnost) určitého procesního jednání, které vyvolá pro protistranu odpovídající následek; povinnost naopak ukládá účastníkovi konat pod hrozbou sankce. Obě modality se v zákoně navzájem doplňují a vytvářejí rovnováhu mezi zájmem na účinném uplatnění nároku a ochranou protistrany před zneužitím procesních nástrojů.
+
+Na straně oprávnění stojí passing-on defence (§ 29): žalovaný *může* namítat, že žalobce navýšení ceny přenesl na odběratele či dodavatele, a snížit tak rozsah nahraditelné škody. Užití obrany je plně na vůli žalovaného — nejde o povinnost, nýbrž o možnost. Na straně povinnosti stojí složení jistoty navrhovatelem disclosure (§ 12 odst. 1): kdo se domáhá zpřístupnění dokumentů, *je povinen* složit jistotu k zajištění případné škody ze zpřístupnění; nesplnění povinnosti má procesní následky. Ve spojení tak tyto dvě modality ilustrují korelativitu — každé procesní zvýhodnění je vyváženo zátěží nebo obranou na druhé straně.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 29 | může namítat | „může v řízení o náhradě škody namítat, že žalobce navýšení ceny přenesl zcela nebo částečně na odběratele nebo dodavatele." | Obrana žalovaného přenesením navýšení (passing-on); snížení rozsahu nahraditelné škody. |
+| § 12 odst. 1 | je povinen složit | „je navrhovatel povinen složit nejpozději ve stejný den, kdy podal u soudu návrh, jistotu ve výši 100 000 Kč." | Povinnost navrhovatele disclosure složit jistotu k zajištění škody ze zpřístupnění. |
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou v ZNSHS hlavním nástrojem, jímž zákonodárce koriguje asymetrii informací mezi poškozeným a škůdcem. Poškozený zpravidla nemá přístup k důkazům o existenci a rozsahu škody způsobené kartelem; zákon proto přenáší důkazní břemeno prostřednictvím vyvratitelných domněnek nebo je nahrazuje procesní fikcí tam, kde protistrana maří dokazování.
+
+Hmotněprávní vyvratitelná domněnka vzniku škody u kartelu (§ 3) obrací důkazní břemeno ve prospěch poškozeného — ten nemusí prokazovat, že škoda vznikla, nýbrž škůdce musí prokázat opak. Obdobně domněnka přenesení navýšení ve prospěch nepřímého odběratele (§ 30 odst. 1) usnadňuje jeho aktivní legitimaci, osvědčí-li stanovené podmínky. Od těchto hmotněprávních domněnek se odlišuje procesní fikce prokázání skutečnosti (§ 28 odst. 1): nezpřístupní-li strana dokumenty v řízení o věci samé, *má se* skutečnost, která jimi měla být prokázána, *za prokázanou* — jde o sankční fikci, nikoli o domněnku o pravděpodobném skutkovém stavu. Rozdíl je zásadní: domněnka připouští důkaz opaku, kdežto fikce nastupuje jako procesní následek porušení povinnosti a k prokázanému opaku se nepřihlíží.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 3 | má se za to | „Má se za to, že omezováním hospodářské soutěže ve formě kartelu vzniká škoda." | Vyvratitelná domněnka vzniku škody u kartelu; obrácení důkazního břemene. |
+| § 30 odst. 1 | má se za to | „Má se za to, že na žalobce bylo přeneseno zcela nebo částečně navýšení ceny, osvědčí-li, že" | Domněnka přenesení navýšení ve prospěch nepřímého odběratele. |
+| § 28 odst. 1 | má se … za prokázanou | „má se skutečnost, která se jimi měla prokázat, za prokázanou." | Procesní fikce prokázání jako sankce za nesplnění disclosure v řízení o věci samé. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality se v ZNSHS neuplatňují izolovaně; teprve jejich kombinace v rámci jednotlivých institutů dává zákonu funkční smysl.
+
+- **Nárok na náhradu škody z kartelu.** Základem je vyvratitelná domněnka vzniku škody (§ 3, „má se za to"), na niž navazuje příkaz solidární náhrady všemi členy kartelu (§ 5 odst. 1, „nahradí tito škodu společně a nerozdílně"), avšak ohraničený hmotněprávním zákazem nadměrného odškodnění (§ 4 odst. 1, „nesmí vést"). Domněnka usnadňuje uplatnění, příkaz zajišťuje jeho vymahatelnost vůči kterémukoli škůdci a zákaz drží výši v mezích plné, nikoli punitivní náhrady.
+
+- **Follow-on žaloba a rozsah škody.** Vázanost soudu rozhodnutím orgánů ochrany soutěže (§ 27 odst. 1, „je vázán rozhodnutím") jako příkaz přesouvá otázku protiprávnosti mimo civilní řízení; proti tomu stojí oprávnění žalovaného namítat přenesení navýšení (§ 29, „může namítat") a korelující domněnka přenesení ve prospěch nepřímého odběratele (§ 30 odst. 1, „má se za to"). Binding effect a passing-on tvoří protiváhu: usnadněné prokázání protiprávnosti je vyváženo obranou o skutečném rozsahu újmy.
+
+- **Zpřístupnění dokumentů (disclosure).** Kompetenční norma opravňuje soud uložit povinnost zpřístupnit dokumenty (§ 10 odst. 1, „usnesením povinnost"), navrhovateli přitom vzniká povinnost složit jistotu (§ 12 odst. 1, „je povinen složit"). Účinnost celého institutu zajišťuje diskreční dovolení uložit pokutu (§ 20 odst. 1, „může předseda senátu usnesením uložit pokutu") a procesní fikce prokázání (§ 28 odst. 1, „má se skutečnost, která se jimi měla prokázat, za prokázanou"), zatímco meze vytyčují absolutní zákaz zpřístupnit leniency a settlement (§ 15 odst. 1, „nelze zpřístupnit") a vyloučení exekuce disclosure povinností (§ 35, „nemohou být předmětem výkonu"). Zmocnění, povinnost, dovolení, fikce i dva zákazy zde spolupůsobí jako jeden vyvážený mechanismus.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | nahradí … společně a nerozdílně; je vázán rozhodnutím | § 5 odst. 1; § 27 odst. 1 |
+| Zákaz | nesmí vést; nelze zpřístupnit; nemohou být předmětem výkonu | § 4 odst. 1; § 15 odst. 1; § 35 |
+| Dovolení | může uložit pokutu | § 20 odst. 1 |
+| Zmocnění (kompetence) | uloží usnesením povinnost | § 10 odst. 1 |
+| Oprávnění | může namítat | § 29 |
+| Povinnost | je povinen složit | § 12 odst. 1 |
+| Domněnka / fikce | má se za to; má se … za prokázanou | § 3; § 30 odst. 1; § 28 odst. 1 |
