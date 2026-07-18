@@ -92,52 +92,6 @@ Pro určení použitelného hmotného práva se uplatní nařízení **Řím II*
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=84ba06fdcd46a5c67183 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 1 — Předmět úpravy
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Tento zákon zapracovává příslušný předpis Evropské unie1) a upravuje některé otázky spojené s povinností nahradit škodu způsobenou porušením pravidel o hospodářské soutěži stanovených [[zákonem upravujícím ochranu hospodářské soutěže|zákonem upravujícím ochranu hospodářské soutěže]], právními předpisy jiného členského státu Evropské unie upravujícími ochranu hospodářské soutěže nebo předpisy Evropské unie, a to dohodou soutěžitelů nebo zneužitím dominantního postavení soutěžitelů (dále jen „omezování hospodářské soutěže“) a uplatňováním práva na náhradu škody z omezování hospodářské soutěže v těchto případech.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=84ba06fdcd46a5c67183 -->
-
 ### § 2 — Vymezení některých pojmů
 
 > **§ 2**
@@ -301,82 +255,6 @@ Tato třístupňová ochrana (absolute, conditional, none) odráží **čl. 6 AD
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=6e92f61be9f33362407f generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 2 — Vymezení některých pojmů
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Pro účely tohoto zákona se rozumí
->
-> - a) přímým odběratelem osoba, která pořídila přímo od osoby omezující hospodářskou soutěž zboží nebo služby, kterých se týkalo omezování,
->
-> - b) nepřímým odběratelem osoba, která pořídila nikoli přímo od osoby omezující hospodářskou soutěž, ale od jejího přímého odběratele nebo následného odběratele zboží nebo služby, kterých se týkalo omezování, nebo zboží a služby od nich odvozené nebo je obsahující,
->
-> - c) navýšením ceny rozdíl ceny mezi cenou skutečně zaplacenou a cenou, která by jinak byla obvyklá v případě, že by nedošlo k omezování hospodářské soutěže,
->
-> - d) orgánem ochrany hospodářské soutěže
->
-> - 1. Evropská komise,
->
-> - 2. Úřad pro ochranu hospodářské soutěže nebo jiný orgán určený podle přímo použitelného předpisu Evropské unie k uplatňování článků 101 a 102 Smlouvy o fungování Evropské unie2) a
->
-> - 3. orgán určený jiným členským státem podle přímo použitelného předpisu Evropské unie uvedeného v bodě 2,
->
-> - e) kartelem horizontální dohoda nebo jednání ve vzájemné shodě mezi dvěma nebo více soutěžiteli, jejímž cílem je koordinovat jejich soutěžní chování na trhu nebo ovlivňovat příslušné parametry hospodářské soutěže, a to prostřednictvím praktik, jako je zejména stanovování nebo koordinace kupních nebo prodejních cen nebo jiných obchodních podmínek, včetně práv duševního vlastnictví, přidělování produkčních nebo prodejních kvót, sdílení trhů a odběratelů, včetně rozdělování trhů, omezování dovozů a vývozů nebo jednání narušující hospodářskou soutěž namířené vůči dalším soutěžitelům,
->
-> - f) programem shovívavosti program týkající se uplatňování článku 101 Smlouvy o fungování Evropské unie podle [[zákona upravujícího ochranu hospodářské soutěže|zákona upravujícího ochranu hospodářské soutěže]]3), podle příslušného ustanovení vnitrostátního práva členských států nebo podle předpisů Evropské unie, na jehož základě účastník tajného kartelu spolupracuje nezávisle na ostatních účastnících tohoto kartelu při šetření orgánu ochrany hospodářské soutěže tím, že dobrovolně poskytne informace o kartelu a o své úloze v něm, za což je u tohoto účastníka na základě rozhodnutí orgánu hospodářské soutěže upuštěno od uložení pokuty, která by mu jinak byla za jeho účast na kartelu uložena, nebo je mu pokuta snížena,
->
-> - g) spolupracujícím škůdcem osoba, u které bylo na základě programu shovívavosti orgánem ochrany hospodářské soutěže rozhodnuto o upuštění od uložení pokuty,
->
-> - h) smírným vyrovnáním konečné uspořádání práv a povinností, které je výsledkem jakéhokoliv postupu umožňujícího dosáhnout smírného vyřešení sporu týkajícího se nároku na náhradu škody, zejména uzavření mimosoudní dohody, dohody o narovnání podle [[občanského zákoníku|občanského zákoníku]] nebo uzavření a schválení soudního smíru podle [[občanského soudního řádu|občanského soudního řádu]].
->
-> (2) Důvěrnou informací chráněnou povinností mlčenlivosti jsou
->
-> - a) prohlášení dobrovolně předložené soutěžitelem nebo fyzickou osobou orgánu ochrany hospodářské soutěže nebo záznam takového prohlášení, popisující poznatky soutěžitele nebo fyzické osoby ohledně kartelu a jejich úlohy v něm, vyhotovené výslovně za účelem upuštění od uložení pokuty nebo snížení pokuty v rámci programu shovívavosti; toto prohlášení nezahrnuje informace existující bez ohledu na řízení orgánu ochrany hospodářské soutěže, ať již je taková informace součástí spisu, nebo nikoliv,
->
-> - b) prohlášení dobrovolně předložené soutěžitelem orgánu ochrany hospodářské soutěže, v němž soutěžitel přiznává nebo potvrzuje svou účast na omezování hospodářské soutěže a svou odpovědnost za omezování hospodářské soutěže nebo uvádí, že svou účast a odpovědnost nezpochybňuje, vyhotovené výslovně za tím účelem, aby mohl orgán ochrany hospodářské soutěže provést příslušná řízení,
->
-> - c) podklady a informace, které byly vypracovány výslovně pro účely správního řízení nebo výkonu dozoru orgánem ochrany hospodářské soutěže, podklady a informace za takovým účelem vypracované tímto orgánem a prohlášení podle písmene b), která byla vzata zpět.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=6e92f61be9f33362407f -->
-
 ## Hlava II — Zvláštní ustanovení o náhradě škody a promlčení
 
 ### § 3 — Domněnka vzniku škody v důsledku kartelu
@@ -448,52 +326,6 @@ Domněnka § 3 je založena na empirickém zjištění, že kartely typicky **ve
 **Typicky rozhodné důkazy / podklady:** rozhodnutí orgánu ochrany soutěže kvalifikující jednání jako kartel, doklady o nákupu dotčeného zboží, znalecký posudek k výši overcharge.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=0a9afae1952893be42d4 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 3 — Domněnka vzniku škody v důsledku kartelu
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Má se za to, že omezováním hospodářské soutěže ve formě kartelu vzniká škoda.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0a9afae1952893be42d4 -->
 
 ### § 4 — Rozsah a způsob náhrady škody
 
@@ -575,58 +407,6 @@ V praxi se soud obrací na **ÚOHS** (čl. 17 odst. 3 ADD, transponován dílč�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=48ff9d4351136a29cde3 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 4 — Rozsah a způsob náhrady škody
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Škoda se nahrazuje v plné výši; ustanovení [[§ 2953|§ 2953]] [[občanského zákoníku|občanského zákoníku]] se nepoužije. Škoda je nahrazena v plné výši, jestliže je poškozenému nahrazeno také znehodnocení peněz, ke kterému došlo s ohledem na plynutí času od vzniku škody. Náhrada škody nesmí vést k nadměrnému odškodnění.
->
-> (2) Je-li to potřeba k náhradě škody v plné výši, může poškozený požadovat po škůdci také zaplacení úroku, aby výše náhrady zohledňovala znehodnocení peněz, ke kterému došlo od vzniku škody do splatnosti její náhrady.
->
-> (3) Pokud by zaplacení úroku z prodlení nevedlo k náhradě škody v plné výši pro dobu po splatnosti její náhrady, může poškozený po škůdci vedle úroku z prodlení požadovat v odpovídající výši také úrok zohledňující znehodnocení peněz. Poškozený však nemůže požadovat zaplacení úroku zohledňujícího znehodnocení peněz za dobu, po kterou poškozený nemůže po škůdci požadovat úrok z prodlení.
->
-> (4) Nelze-li výši náhrady škody přesně určit, určí ji podle spravedlivého uvážení jednotlivých okolností případu soud.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2953
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=48ff9d4351136a29cde3 -->
-
 ### Škoda způsobená několika škůdci a jejich vzájemné vypořádání (§§ 5–8)
 
 ### § 5 — Společná a nerozdílná odpovědnost členů kartelu
@@ -690,54 +470,6 @@ V rámci vzájemného vypořádání mezi škůdci se každý vypořádá **podl
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ÚOHS / Komise identifikující všechny účastníky kartelu, doklady o struktuře hospodářské jednotky, posudek o celkové škodě, podklady o obratu a roli jednotlivých kartelistů.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=55192f7ea8ef72adeaca generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 5
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Dojde-li k omezení hospodářské soutěže společným jednáním více škůdců, nahradí tito škodu společně a nerozdílně; soud nemůže rozhodnout, že škůdce nahradí škodu podle své účasti na škodlivém následku.
->
-> (2) Kdo je povinen k náhradě škody společně a nerozdílně s jinými, vypořádá se s nimi podle účasti na způsobení vzniklé škody.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=55192f7ea8ef72adeaca -->
 
 ### § 6 — Privilegium spolupracujícího škůdce (leniency-applicant)
 
@@ -805,56 +537,6 @@ V rámci vzájemného vypořádání mezi škůdci nemá leniency-applicant povi
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ÚOHS / Komise s výrokem o upuštění od pokuty, doklady o solventnosti/nedobytnosti ostatních škůdců, evidence vlastních odběratelů spolupracujícího škůdce.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=7ef9d0009473f07dd97d generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 6
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) V případě škody způsobené několika škůdci nahradí spolupracující škůdce škodu pouze svým přímým nebo nepřímým odběratelům nebo dodavatelům; jiným poškozeným nahradí škodu jen tehdy, jsou-li pohledávky na náhradu škody od dalších škůdců, kteří se podíleli na způsobení škody, nedobytné.
->
-> (2) Spolupracující škůdce není povinen k náhradě škody jiným poškozeným než svým přímým nebo nepřímým odběratelům nebo dodavatelům, jsou-li pohledávky na náhradu škody jiných poškozených vůči dalším škůdcům promlčeny.
->
-> (3) Při vypořádání mezi škůdci není spolupracující škůdce povinen vyrovnat více, než činí výše škody, kterou způsobil svým přímým nebo nepřímým odběratelům a dodavatelům; to neplatí, jde-li o škodu způsobenou jiným poškozeným než přímým nebo nepřímým odběratelům nebo dodavatelům.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7ef9d0009473f07dd97d -->
 
 ### § 7 — Privilegium malého a středního podnikatele
 
@@ -944,66 +626,6 @@ Stejné pravidlo jako u leniency-applicanta (§ 6 odst. 2) — promlčení vůč
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=184548c4e9c110bdeac3 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 7
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) V případě škody způsobené několika škůdci nahradí škůdce, který je malým a středním podnikatelem4), škodu způsobenou omezováním hospodářské soutěže pouze svým přímým nebo nepřímým odběratelům nebo dodavatelům, pokud
->
-> - a) jeho tržní podíl na relevantním trhu po celou dobu omezování hospodářské soutěže je nižší než 5 % a
->
-> - b) při povinnosti nahradit škodu společně a nerozdílně by si přivodil nezvratné ohrožení hospodářské životaschopnosti a způsobení ztráty celé hodnoty aktiv.
->
-> (2) Škůdce, který je malým a středním podnikatelem, splňující podmínky podle odstavce 1 nahradí škodu také jiným poškozeným než svým přímým nebo nepřímým odběratelům a dodavatelům, pokud
->
-> - a) řídil omezování hospodářské soutěže nebo k účasti na takovém jednání přinutil jiné,
->
-> - b) již dříve prokazatelně omezoval hospodářskou soutěž, nebo
->
-> - c) jsou pohledávky na náhradu škody nedobytné od dalších škůdců, kteří se podíleli na způsobení škody.
->
-> (3) Škůdce, který je malým a středním podnikatelem, splňující podmínky podle odstavce 1 není povinen k náhradě škody jiným poškozeným než svým přímým nebo nepřímým odběratelům nebo dodavatelům, jsou-li pohledávky na náhradu škody jiných poškozených vůči dalším škůdcům promlčeny.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=184548c4e9c110bdeac3 -->
-
 ### § 8 — Smírné vyrovnání a jeho dopad na solidární odpovědnost
 
 > **§ 8**
@@ -1066,58 +688,6 @@ Smyslem je vytvořit **first-mover advantage** pro kartelistu, který se s pošk
 **Typicky rozhodné důkazy / podklady:** dohoda o narovnání / soudní smír, rozhodnutí ÚOHS, znalecký posudek o podílech jednotlivých škůdců na škodě, doklady o (ne)dobytnosti ostatních.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=bdc5f83bee3ae7cf60a7 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 8
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) V případě škody způsobené několika škůdci se její náhrada sníží o podíl škůdce zúčastněného na smírném vyrovnání odpovídající jeho účasti na způsobení vzniklé škody. Zbývající část náhrady škody škůdce zúčastněný na smírném vyrovnání nahradí jen tehdy, jsou-li pohledávky na náhradu škody od dalších škůdců nedobytné; to lze ve smírném vyrovnání výslovně vyloučit.
->
-> (2) Škůdce zúčastněný na smírném vyrovnání není povinen nahradit zbývající část náhrady škody podle odstavce 1, jsou-li pohledávky na náhradu škody vůči dalším škůdcům promlčeny.
->
-> (3) Škůdce zúčastněný na smírném vyrovnání není povinen se s ostatními škůdci vypořádat; to neplatí, jde-li o škodu způsobenou poškozenému, který není účasten na smírném vyrovnání.
->
-> (4) Škůdce, který poškozenému nahradil škodu na základě smírného vyrovnání, může v případě povinnosti k náhradě škody jinému poškozenému požadovat, aby byl snížen jeho podíl při vzájemném vypořádání mezi škůdci. O snížení rozhodne soud s ohledem na výši náhrady škody poskytnuté na základě smírného vyrovnání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=bdc5f83bee3ae7cf60a7 -->
 
 ### § 9 — Zvláštní ustanovení o promlčení
 
@@ -1222,70 +792,6 @@ Pokud se poškozený dozví, že jsou jeho pohledávky vůči ostatním (non-imm
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=c48d3f848fa989609c1e generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 9 — Zvláštní ustanovení o promlčení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Promlčecí lhůta pro uplatnění práva na náhradu škody podle tohoto zákona trvá 5 let; ustanovení [[§ 629|§ 629]] a [[636|636]] [[občanského zákoníku|občanského zákoníku]] se nepoužijí.
->
-> (2) Promlčecí lhůta počne běžet ode dne, kdy se oprávněná osoba dozvěděla o škodě, o osobě povinné k její náhradě a o omezování hospodářské soutěže, nebo se o těchto skutečnostech dozvědět měla a mohla, nejdříve však ode dne, kdy došlo k ukončení omezování hospodářské soutěže.
->
-> (3) Promlčecí lhůta neběží po dobu šetření nebo řízení orgánu ochrany hospodářské soutěže, které se týká stejného omezování hospodářské soutěže, a po dobu 1 roku ode dne, kdy
->
-> - a) nabylo právní moci konečné rozhodnutí vydané orgánem ochrany hospodářské soutěže nebo soudem o tom, že došlo k takovému omezování hospodářské soutěže, nebo
->
-> - b) bylo šetření nebo řízení orgánu ochrany hospodářské soutěže nebo řízení před soudem skončeno jinak.
->
-> (4) Promlčecí lhůta neběží po dobu řízení o zpřístupnění důkazního prostředku podle tohoto zákona nebo podle právních předpisů jiného členského státu Evropské unie.
->
-> (5) Promlčecí lhůta neskončí dříve než za 1 rok ode dne, kdy se oprávněná osoba dozvěděla o tom, že pohledávka na náhradu škody je nedobytná od těch, kteří
->
-> - a) nejsou spolupracujícím škůdcem,
->
-> - b) nejsou malým a středním podnikatelem, nebo
->
-> - c) nebyli zúčastněni na smírném vyrovnání.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 629
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=c48d3f848fa989609c1e -->
-
 ## Hlava III — Zvláštní ustanovení o řízení
 
 ## Díl 1 — Řízení o zpřístupnění důkazního prostředku
@@ -1379,62 +885,6 @@ Soud je povinen **vyrozumět ÚOHS** (resp. orgán, který by byl příslušný 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=af859e06b1a02fa8bfbb generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 10
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Před zahájením řízení o náhradě škody způsobené omezováním hospodářské soutěže předseda senátu na návrh navrhovatele, který s určitostí odpovídající dostupným skutečnostem osvědčí věrohodnost svého práva na náhradu škody způsobené omezováním hospodářské soutěže, uloží, je-li to nezbytné a přiměřené k uplatnění práva navrhovatele na náhradu škody, usnesením povinnost tomu, kdo
->
-> - a) má pod svou kontrolou písemnosti nebo jiné prostředky, kterými lze zjistit stav věci, vymezené jednotlivě nebo souborně jejich společnými vlastnostmi požadované v návrhu (dále jen „dokumenty“), aby je zpřístupnil navrhovateli, nebo
->
-> - b) měl pod svou kontrolou dokumenty, aby navrhovateli sdělil, kde se podle jeho poznatků dokumenty nacházejí.
->
-> (2) Má se za to, že osoba měla dokumenty pod svou kontrolou také tehdy, pokud měla právo pořídit si výpis, opis nebo kopii dokumentů nebo měla právo se s obsahem dokumentů seznámit jinak.
->
-> (3) Návrh na zpřístupnění dokumentů nebo sdělení, kde se nacházejí, podle odstavce 1 (dále jen „návrh na zpřístupnění dokumentů“) musí kromě náležitostí podle [[§ 42 odst. 4|§ 42 odst. 4]] a [[§ 79 odst. 1|§ 79 odst. 1]] [[občanského soudního řádu|občanského soudního řádu]] obsahovat co nejpřesnější označení dokumentů, jak to odpovídá dostupným skutečnostem.
->
-> (4) Soud o návrhu na zpřístupnění dokumentů vyrozumí orgán ochrany hospodářské soutěže, který by byl příslušný k šetření omezování hospodářské soutěže, a poskytne mu lhůtu k podání vyjádření k návrhu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 42, § 79
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=af859e06b1a02fa8bfbb -->
-
 ### § 11 — Příslušnost a procesní rámec
 
 > **§ 11**
@@ -1489,58 +939,6 @@ Příslušnost je shodná s **věcnou příslušností v hlavní věci** — kra
 **Typicky rozhodné důkazy / podklady:** návrh s přesnou specifikací dokumentů, listinné přílohy osvědčující právo, vyjádření povinného a budoucích stran sporu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1bccbc41baba30c4331e generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 11
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) K řízení o návrhu na zpřístupnění dokumentů je příslušný soud, který by byl příslušný k řízení o věci samé.
->
-> (2) Účastníky řízení o návrhu na zpřístupnění dokumentů jsou navrhovatel, ti, kteří by jimi byli, kdyby šlo o řízení o věci samé, a ten, komu má být podle návrhu uložena povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí.
->
-> (3) Při rozhodování o návrhu na zpřístupnění dokumentů nařídí předseda senátu jednání, jestliže ve věci nelze rozhodnout na základě písemných podání a účastníky předložených písemných důkazů.
->
-> (4) Rozhodnutí o návrhu na zpřístupnění dokumentů je vykonatelné, jakmile uplyne lhůta k plnění; lhůta počíná běžet od právní moci rozhodnutí.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1bccbc41baba30c4331e -->
 
 ### § 12 — Jistota a její doplatky
 
@@ -1597,58 +995,6 @@ Příslušnost je shodná s **věcnou příslušností v hlavní věci** — kra
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=63459bdfbcfe2c084842 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 12
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) K zajištění náhrady škody nebo jiné újmy, která by mohla vzniknout zpřístupněním dokumentů, je navrhovatel povinen složit nejpozději ve stejný den, kdy podal u soudu návrh, jistotu ve výši 100 000 Kč.
->
-> (2) Dospěje-li předseda senátu k závěru, že složená jistota zjevně nepostačuje k zajištění náhrady škody nebo jiné újmy, která by zpřístupněním dokumentů mohla vzniknout, bezodkladně vyzve navrhovatele, aby do 8 dnů složil doplatek jistoty ve výši, kterou stanoví s přihlédnutím k okolnostem případu, nedojde-li tím k nepřiměřenému ztížení přístupu k dokumentům. Podalo-li návrh na zpřístupnění dokumentů více navrhovatelů, jsou povinni jistotu a doplatek jistoty složit společně a nerozdílně.
->
-> (3) Nebudou-li jistota a doplatek jistoty složeny, předseda senátu návrh na zpřístupnění dokumentů odmítne.
->
-> (4) Byl-li návrh na zpřístupnění dokumentů pravomocně odmítnut, zamítnut nebo bylo-li řízení o něm pravomocně zastaveno, soud složenou jistotu vrátí. V případě, že soud nařídil zpřístupnění dokumentů, bude jistota vrácena, jestliže marně uplynula lhůta k žalobě na náhradu škody nebo jiné újmy vzniklé zpřístupněním dokumentů nebo jestliže nabylo právní moci rozhodnutí soudu o žalobě a z tohoto rozhodnutí vyplývá, že jistota nebude použita k uspokojení práva na náhradu škody nebo jiné újmy vzniklé zpřístupněním dokumentů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=63459bdfbcfe2c084842 -->
-
 ### § 13 — Odpovědnost za škodu vzniklou zpřístupněním
 
 > **§ 13**
@@ -1701,56 +1047,6 @@ Příslušnost je shodná s **věcnou příslušností v hlavní věci** — kra
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zpřístupnění a doklad o jeho splnění, důkaz o úniku a vzniklé škodě, doklad o složené jistotě, podklady k případné alternativní kauzalitě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=1b45e5fd6026dd4a503c generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 13
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Povinnosti k náhradě škody nebo újmy vzniklé zpřístupněním dokumentů se nelze zprostit, ledaže by ke škodě nebo jiné újmě došlo i jinak.
->
-> (2) Žalobu na náhradu škody nebo jiné újmy vzniklé zpřístupněním dokumentů je třeba podat do 6 měsíců ode dne splnění povinnosti zpřístupnit dokumenty; zmeškání lhůty nelze prominout. Příslušným k řízení o žalobě je soud, který rozhodoval o zpřístupnění dokumentů.
->
-> (3) Pravomocně přiznaná náhrada škody nebo jiné újmy se uspokojí z navrhovatelem složené jistoty; nepostačuje-li jistota k uspokojení všech poškozených, rozdělí soud jistotu mezi ně poměrně. Povinnost navrhovatele nahradit škodu nebo jinou újmu, která nebyla zajištěna složenou jistotou, tím není dotčena.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=1b45e5fd6026dd4a503c -->
 
 ### § 14 — Rozsah a způsob zpřístupnění
 
@@ -1823,64 +1119,6 @@ Disclosure **nesmí prolomit** povinnost mlčenlivosti advokáta (§ 21 zákona 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=10d7a9fb93d8eb5cf841 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 14
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Nejsou-li dány důvody pro odmítnutí nebo zamítnutí návrhu na zpřístupnění dokumentů, předseda senátu uloží usnesením tomu, kdo dokumenty má pod svou kontrolou, povinnost zpřístupnit je v přiměřeném rozsahu, nebo uloží usnesením tomu, kdo pod svou kontrolou dokumenty měl, povinnost sdělit, kde se podle jeho poznatků nacházejí; ke splnění povinností určí předseda senátu lhůtu.
->
-> (2) Při určení rozsahu a způsobu zpřístupnění dokumentů přihlédne předseda senátu zejména k
->
-> - a) tomu, zda dokumenty, které se mají zpřístupnit, mohou být potřebné ke zjištění rozhodujících skutečností a důkazů v řízení o věci samé,
->
-> - b) rozsahu a nákladům zpřístupnění pro povinného nebo třetí osoby včetně předcházení neurčitému vyhledávání dokumentů, které nejsou potřebné pro uplatnění práv navrhovatele, a
->
-> - c) tomu, zda dokumenty obsahují obchodní, bankovní nebo obdobné zákonem chráněné tajemství.
->
-> (3) Předseda senátu vyzve toho, jemuž má být podle návrhu na zpřístupnění dokumentů uložena povinnost, aby se k němu vyjádřil.
->
-> (4) Určení rozsahu zpřístupnění dokumentů se provede tak, aby byla šetřena povinnost mlčenlivosti advokáta a jiná obdobná povinnost mlčenlivosti stanovená zákonem, právními předpisy jiného členského státu Evropské unie nebo právem Evropské unie.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=10d7a9fb93d8eb5cf841 -->
-
 ### § 15 — Důvěrné informace — leniency a settlement (absolutní zákaz)
 
 > **§ 15**
@@ -1952,60 +1190,6 @@ Disclosure proti **samotnému ÚOHS** je **ultima ratio** — soud nařídí jen
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=678f56bedff1d486bde9 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 15
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Nelze zpřístupnit důvěrné informace podle § 2 odst. 2 písm. a) nebo b). Navrhovatel může kdykoli za řízení v odůvodněných případech požadovat, aby byly soudu dokumenty předloženy za účelem ověření, že obsahují tyto informace. Nepodá-li navrhovatel žádost a má-li předseda senátu za to, že dokumenty mohou obsahovat důvěrné informace podle § 2 odst. 2 písm. a) nebo b), vyzve předseda senátu navrhovatele k podání žádosti v určené lhůtě.
->
-> (2) Neprovede-li předseda senátu k žádosti navrhovatele ověření podle odstavce 1, vypořádá se s důvody svého postupu v odůvodnění rozhodnutí o návrhu na zpřístupnění dokumentů.
->
-> (3) Provede-li předseda senátu k žádosti navrhovatele ověření podle odstavce 1, vyhotoví o průběhu ověření protokol obsahující rovněž závěr ověření. Při nahlížení do spisu nelze nahlížet do protokolu o ověření. Ověření se provede mimo jednání bez přítomnosti účastníků. O součinnost při ověřování může soud požádat pouze příslušný orgán ochrany hospodářské soutěže. Dokumenty se po ověření vrátí tomu, kdo je předložil.
->
-> (4) Uložit povinnost zpřístupnit důvěrné informace podle § 2 odst. 2 písm. c) lze nejdříve po právní moci rozhodnutí orgánu ochrany hospodářské soutěže o ukončení správního řízení.
->
-> (5) Orgánu ochrany hospodářské soutěže lze uložit povinnost zpřístupnit dokumenty, které jsou obsaženy v jeho spisu, jen pokud je nelze opatřit jinak.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=678f56bedff1d486bde9 -->
-
 ### § 16 — Dokumenty ve spisu ÚOHS a další kritéria
 
 > **§ 16**
@@ -2068,66 +1252,6 @@ Disclosure proti **samotnému ÚOHS** je **ultima ratio** — soud nařídí jen
 **Typicky rozhodné důkazy / podklady:** vyjádření ÚOHS, přesná specifikace dokumentů, doklad o stavu šetření / právní moci rozhodnutí, podklady k možnosti opatřit dokumenty jinak.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=fda8aaabaf20c26d0c17 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 16
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Je-li navrhováno zpřístupnění dokumentů, které jsou také obsaženy ve spisu orgánu ochrany hospodářské soutěže, předseda senátu dále zohlední, zda by zpřístupnění nebylo v rozporu s požadavkem na účinné veřejnoprávní prosazování právních předpisů o hospodářské soutěži, pokud
->
-> - a) jde o dokumenty obsahující důvěrné informace podle § 2 odst. 2 písm. c),
->
-> - b) o to žádá orgán ochrany hospodářské soutěže ve svém vyjádření k přiměřenosti návrhu na zpřístupnění dokumentů, nebo
->
-> - c) by měl orgánu ochrany hospodářské soutěže uložit povinnost zpřístupnit dokumenty obsažené v jeho spisu.
->
-> (2) Je-li navrhováno zpřístupnění dokumentů, které jsou také obsaženy ve spisu orgánu ochrany hospodářské soutěže, předseda senátu dále zohlední, zda je návrh na zpřístupnění dokumentů určitý s ohledem na povahu, předmět a obsah požadovaných dokumentů a není jen neurčitou žádostí týkající se těchto dokumentů.
->
-> (3) Dokumenty obsahující důvěrné informace podle § 2 odst. 2 písm. c) lze za podmínek podle odstavců 1 a [[#§ 2|2]] zpřístupnit až po ukončení šetření nebo právní moci rozhodnutí orgánu ochrany hospodářské soutěže o ukončení správního řízení.
->
-> (4) Dokumenty obsažené ve spisu orgánu ochrany hospodářské soutěže lze za podmínek podle odstavců 1 a [[#§ 2|2]] zpřístupnit, pokud je lze opatřit jinak pouze za vynaložení úsilí, které nelze spravedlivě požadovat.
->
-> (5) Předseda senátu vyzve původce dokumentu, který má být podle návrhu na zpřístupnění dokumentů zpřístupněn, aby se k němu vyjádřil.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fda8aaabaf20c26d0c17 -->
 
 ### § 17 — Ochrana obchodního tajemství
 
@@ -2202,70 +1326,6 @@ Mlčenlivost je uložena všem zúčastněným; **purpose limitation** (odst. 5)
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=2a41c7895d931f216d94 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 17
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) V případě, že to odůvodňují důležité zájmy povinného nebo třetích osob na ochraně obchodního, bankovního nebo obdobného zákonem chráněného tajemství a navrhne-li to povinný nebo i bez návrhu, může předseda senátu v rozhodnutí o návrhu na zpřístupnění dokumentů
->
-> - a) určit omezený okruh osob, kterým budou dokumenty zpřístupněny,
->
-> - b) určit jednu nebo více nestranných osob s potřebnými předpoklady pro to, aby z obsahu dokumentů vypracovaly dostatečně podrobný výpis v podobě šetřící právo na zpřístupnění dokumentů, který tajemství neobsahuje, a schválit zpřístupnění dokumentů prostřednictvím zpřístupnění výpisu z nich, nebo
->
-> - c) nařídit jiná vhodná opatření k ochraně těchto zájmů povinného nebo třetích osob.
->
-> (2) Určit osobu podle odstavce 1 písm. a) a b) nelze bez jejího souhlasu.
->
-> (3) V rozhodnutí uloží předseda senátu povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství osobám, které se s tajemstvím seznámí. V rozhodnutí předseda senátu uloží navrhovateli, aby
->
-> - a) zaplatil odměnu osobám podle odstavce 1 písm. b) určeným v rozhodnutí; výši odměny nebo způsob jejího výpočtu, její splatnost, popřípadě další podmínky odměňování, určuje předseda senátu v rozhodnutí, a
->
-> - b) nahradil účelně vynaložené náklady opatření podle odstavce 1 písm. c) nařízených v rozhodnutí; výši nákladů a podmínky jejich nahrazení určí předseda senátu v rozhodnutí.
->
-> (4) Navrhovatel a osoby podle odstavce 1 jsou povinni o dokumentech zachovávat mlčenlivost.
->
-> (5) Zpřístupněné dokumenty včetně výpisů z nich může navrhovatel použít pouze pro potřeby řízení o věci samé nebo pro potřeby dalšího návrhu na zpřístupnění dokumentů.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2a41c7895d931f216d94 -->
-
 ### § 18 — Disclosure v rámci probíhajícího řízení
 
 > **§ 18**
@@ -2323,60 +1383,6 @@ Disclosure je **oboustranný** — může jej iniciovat jak žalobce, tak **žal
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=88cee5c673b0564be71d generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 18
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Za podmínek stanovených v tomto dílu předseda senátu uloží povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí, také po zahájení řízení o věci samé.
->
-> (2) Za podmínek stanovených v tomto dílu předseda senátu uloží povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí
->
-> - a) v řízení o návrhu na zpřístupnění dokumentů zahájeném před zahájením řízení o věci samé také na návrh toho, kdo by byl v řízení o věci samé žalovaným, a
->
-> - b) po zahájení řízení ve věci samé také na návrh žalovaného,
->
-> osvědčí-li tato osoba s určitostí odpovídající dostupným skutečnostem, že je to třeba k jejímu úspěchu v řízení o věci samé.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=88cee5c673b0564be71d -->
-
 ### § 19 — Postup při povinnosti zpřístupnit
 
 > **§ 19**
@@ -2427,54 +1433,6 @@ Soud po pravomocném uložení povinnosti **ex officio** sleduje její plnění 
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o povinnosti zpřístupnit, doklad o (ne)splnění ve lhůtě, evidence o dodatečném plnění.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=7e41de8a21f4c4a7810e generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 19
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Je-li uložena pravomocně povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí, postupuje předseda senátu i bez dalších návrhů v řízení tak, aby byla povinnost zpřístupnit dokumenty, sdělit, kde se nacházejí, a povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství splněna, nebo aby bylo postiženo její nesplnění.
->
-> (2) Po pravomocném uložení povinnosti zpřístupnit dokumenty jsou účastníky řízení o návrhu na zpřístupnění dokumentů navrhovatel a ti, o jejichž právech a povinnostech má být jednáno.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=7e41de8a21f4c4a7810e -->
 
 ### Pokuty (§§ 20–24)
 
@@ -2537,62 +1495,6 @@ Soud po pravomocném uložení povinnosti **ex officio** sleduje její plnění 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=747d8abc93a77fdc0b74 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 20
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Tomu, kdo se bez vážného důvodu dopustil protiprávního činu tím, že
->
-> - a) porušil pravomocným soudním rozhodnutím uloženou povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí, nebo
->
-> - b) splnění povinností podle písmene a) znemožnil nebo podstatně ztížil,
->
-> může předseda senátu usnesením uložit pokutu do výše 10 000 000 Kč nebo do výše 1 % jeho čistého obratu dosaženého za poslední ukončené účetní období.
->
-> (2) Je-li ten, kdo se protiprávního činu dopustil, součástí soutěžitele5), vyměřuje se procentuálně stanovená pokuta z čistého obratu dosaženého za poslední ukončené účetní období soutěžitelem.
->
-> (3) Předseda senátu přihlédne při rozhodování, zda uložit pokutu, a při stanovení její výše zejména k výši škody, která měla omezováním hospodářské soutěže vzniknout, ke snaze předejít následkům protiprávního činu, k dodatečnému splnění povinnosti zpřístupnit dokumenty nebo sdělit, kde se nacházejí, jakož i k dodatečnému odstranění následků protiprávního činu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=747d8abc93a77fdc0b74 -->
-
 ### § 21 — Pokuta za prolomení obchodního tajemství
 
 > **§ 21**
@@ -2645,56 +1547,6 @@ Reverzní sankce — postihuje porušení **povinnosti zachovat mlčenlivost** o
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ukládající mlčenlivost, doklad o úniku tajemství a vzniku škody, podklady k liberačnímu důvodu (vynaložené úsilí).
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=5662324af1cc2489f16a generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 21
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Tomu, kdo se dopustil protiprávního činu tím, že porušil soudem pravomocně uloženou povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství, může předseda senátu usnesením uložit pokutu do výše 1 000 000 Kč.
->
-> (2) Předseda senátu přihlédne při rozhodování, zda uložit pokutu, a při stanovení její výše zejména k výši škody vzniklé nebo hrozící v souvislosti s protiprávním činem, ke snaze předejít následkům protiprávního činu, jakož i k jejich dodatečnému odstranění.
->
-> (3) Ten, kdo se protiprávního činu dopustil, nahradí škodu tím způsobenou. Povinnosti se zprostí, prokáže-li, že škodě nemohl zabránit ani při vynaložení veškerého úsilí, které po něm lze spravedlivě požadovat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5662324af1cc2489f16a -->
 
 ### § 22 — Promlčení pokut a další pravidla
 
@@ -2749,56 +1601,6 @@ Pokutu lze uložit do **3 let** (subjektivní) / **5 let** (objektivní) lhůty.
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=d6a597439edc72b972d6 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 22
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Pokutu lze uložit do 3 let od okamžiku, kdy předseda senátu započal činit úkony směřující k rozhodnutí o pokutě, nejpozději však do 5 let od okamžiku, kdy došlo k protiprávnímu činu.
->
-> (2) Pokuta je příjmem státního rozpočtu.
->
-> (3) Je-li ten, kdo se dopustil protiprávního činu a komu má být uložena pokuta, součástí soutěžitele, uloží se zaplacení pokuty společně a nerozdílně každému, kdo je součástí soutěžitele, ledaže to nelze spravedlivě žádat.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=d6a597439edc72b972d6 -->
-
 ### § 23 — Zastavení řízení o pokutě
 
 > **§ 23**
@@ -2852,56 +1654,6 @@ Pokuty lze **opakovat** (násobit), pokud první nezpůsobí splnění. Řízen�
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=3b8286ff5a8310f7e337 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 23
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Pokud předseda senátu pokutu neuloží, usnesením řízení zastaví; usnesení předseda senátu odůvodní.
->
-> (2) Není-li povinnost splněna ani poté, kdy byla uložena pokuta, předseda senátu v řízení uloží za podmínek podle § 20 až 22 další pokutu nebo řízení usnesením zastaví.
->
-> (3) Dozví-li se předseda senátu po zastavení řízení dodatečně o skutečnostech, které by mohly odůvodňovat uložení pokuty, vydá usnesení o pokračování v řízení a i bez dalších návrhů pokračuje v řízení; proti usnesení není odvolání přípustné.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 20
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=3b8286ff5a8310f7e337 -->
-
 ### § 24 — Vykonatelnost usnesení
 
 > **§ 24**
@@ -2950,52 +1702,6 @@ Standardní pravidlo vykonatelnosti — od právní moci + paričná lhůta urč
 **Typicky rozhodné důkazy / podklady:** usnesení o pokutě / o zastavení, doklad o nabytí právní moci, evidence o (ne)zaplacení v pariční lhůtě.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=b6a7db5f90e914bf18bc generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 24
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Usnesení, kterým je uložena pokuta nebo kterým je řízení zastaveno, je vykonatelné, jakmile uplyne lhůta k plnění; lhůta počíná běžet od právní moci usnesení. Lhůtu pro zaplacení pokuty určuje v rozhodnutí předseda senátu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=b6a7db5f90e914bf18bc -->
 
 ## Díl 2 — Náhrada škody a nároky škůdců zavázaných společně a nerozdílně
 
@@ -3050,52 +1756,6 @@ ZNSHS **odchyluje** se od obecného pravidla věcné příslušnosti (§ 9 OSŘ 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=94e1e03f501a8dbec538 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 25 — Příslušnost
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> K řízení o náhradě škody způsobené omezováním hospodářské soutěže jsou v prvním stupni příslušné krajské soudy.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=94e1e03f501a8dbec538 -->
-
 ### § 26 — Přerušení řízení pro účely smírného vyrovnání
 
 > **§ 26**
@@ -3146,54 +1806,6 @@ Soud **přeruší** řízení až na **2 roky** v zájmu mediace / smírného je
 **Typicky rozhodné důkazy / podklady:** sdělení účastníků o jednání a o jeho ukončení, případná mediační dohoda / narovnání, evidence běhu promlčecí lhůty.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=434eebb71af67be74089 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 26 — Přerušení řízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Sdělí-li účastníci soudu, že vedou ve věci náhrady škody jednání, které má vést ke smírnému vyrovnání, přeruší soud řízení o věci samé, nejdéle však na dobu 2 let.
->
-> (2) Po uplynutí doby určené soudem nebo sdělil-li soudu některý z účastníků, že se jednání, která mají vést ke smírnému vyrovnání, již nevedou, pokračuje soud v řízení i bez návrhu.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=434eebb71af67be74089 -->
 
 ### § 27 — Binding effect rozhodnutí orgánů ochrany hospodářské soutěže
 
@@ -3268,54 +1880,6 @@ Rozhodnutí orgánů ochrany hospodářské soutěže **jiných členských stá
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=f4f00fd7ad35e772d345 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 27
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Soud je v řízení o náhradě škody vázán rozhodnutím jiného soudu, Úřadu pro ochranu hospodářské soutěže a Evropské komise o tom, že došlo k omezování hospodářské soutěže a kdo se jej dopustil.
->
-> (2) Pokud bylo vydáno rozhodnutí o tom, že došlo k omezování hospodářské soutěže a kdo se jej dopustil, orgánem ochrany hospodářské soutěže v jiném členském státě, má se v řízení o náhradě škody za to, že došlo k omezování hospodářské soutěže a že se jej tato osoba dopustila, není-li prokázán opak.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f4f00fd7ad35e772d345 -->
-
 ### § 28 — Sankce za nedodržení disclosure v řízení o věci samé
 
 > **§ 28**
@@ -3372,54 +1936,6 @@ Pokud někdo poruší **mlčenlivost** ohledně zpřístupněných dokumentů, s
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o povinnosti zpřístupnit, doklad o nesplnění, vymezení skutečnosti k prokázání, doklad o porušení mlčenlivosti.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=8b6f331243725269bc3e generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 28
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Jestliže účastník řízení bez vážného důvodu porušil pravomocným soudním rozhodnutím uloženou povinnost zpřístupnit dokumenty, sdělit, kde se nacházejí, nebo splnění těchto povinností znemožnil, má se skutečnost, která se jimi měla prokázat, za prokázanou.
->
-> (2) Jestliže byla porušena pravomocně uložená povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství, může soud rozhodnout, že není přípustné provedení důkazu dokumenty, kterých se porušení týká.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=8b6f331243725269bc3e -->
 
 ### § 29 — Passing-on defence
 
@@ -3482,52 +1998,6 @@ Důkazní břemeno **nese žalovaný** — musí prokázat, že k přenesení sk
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=31eebae8fae991f5d50d generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 29 — Přenesení navýšení ceny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Žalovaný, který měl způsobit škodu omezováním hospodářské soutěže, může v řízení o náhradě škody namítat, že žalobce navýšení ceny přenesl zcela nebo částečně na odběratele nebo dodavatele.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=31eebae8fae991f5d50d -->
-
 ### § 30 — Presumpce přenesení ve prospěch nepřímého odběratele
 
 > **§ 30**
@@ -3587,60 +2057,6 @@ Transpozice **čl. 14 odst. 2 ADD**. Toto pravidlo strukturálně **vyvažuje** 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=13116a8b9b0568046473 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 30 — Nepřímý odběratel a přenesení navýšení ceny
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Má se za to, že na žalobce bylo přeneseno zcela nebo částečně navýšení ceny, osvědčí-li, že
->
->   - a) došlo k omezování hospodářské soutěže žalovaným,
->
->   - b) omezování hospodářské soutěže žalovaným vedlo k navýšení ceny pro přímého odběratele žalovaného a
->
->   - c) sám od tohoto přímého odběratele nebo následného odběratele pořídil zboží nebo služby dotčené omezováním hospodářské soutěže, nebo zboží nebo služby od nich odvozené nebo je obsahující.
->
-> (2) Odstavec 1 se nepoužije, jestliže žalovaný osvědčí, že k přenesení navýšení ceny zcela nebo částečně nedošlo.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=13116a8b9b0568046473 -->
-
 ### § 31 — Nepřípustnost důkazu z leniency / settlement dokumentů
 
 > **§ 31**
@@ -3698,58 +2114,6 @@ Soud může řízení **přerušit** do doby, kdy se stane důkaz přípustným 
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=cfc36d96f77cc7cb17e3 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 31
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Není přípustné provedení důkazu dokumenty, které obsahují důvěrné informace podle § 2 odst. 2 písm. a) nebo b) a které byly získány výhradně v rámci výkonu práva nahlížet do spisu.
->
-> (2) Není přípustné provedení důkazu dokumenty, které obsahují důvěrné informace podle § 2 odst. 2 písm. c) a které byly získány výhradně v rámci výkonu práva nahlížet do spisu, a to do ukončení šetření nebo právní moci rozhodnutí orgánu ochrany hospodářské soutěže o ukončení správního řízení.
->
-> (3) Není přípustné provedení důkazu ani jinými dokumenty, které byly získány výhradně v rámci výkonu práva nahlížet do spisu, neuvedenými v odstavcích 1 a [[#§ 2|2]], ledaže se jich dovolává ten, kdo je takto získal, nebo jeho právní nástupce.
->
-> (4) Soud řízení na návrh přeruší do doby, než bude provedení důkazu podle odstavce 2 přípustné, jestliže se to nepříčí účelu řízení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 2
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=cfc36d96f77cc7cb17e3 -->
-
 ### § 32 — Náhrada nákladů řízení
 
 > **§ 32**
@@ -3798,52 +2162,6 @@ Soud může řízení **přerušit** do doby, kdy se stane důkaz přípustným 
 **Typicky rozhodné důkazy / podklady:** doklad o maření disclosure / porušení mlčenlivosti, vyčíslení nákladů řízení, podklady k (ne)existenci vážného důvodu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=65b16215df9baf5c5fce generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 32 — Náhrada nákladů řízení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Účastníkovi řízení, který bez vážného důvodu porušil pravomocným soudním rozhodnutím uloženou povinnost zpřístupnit dokumenty, sdělit, kde se nacházejí, nebo splnění těchto povinností znemožnil nebo podstatně ztížil nebo porušil pravomocně uloženou povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství, může soud uložit povinnost nahradit náklady řízení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=65b16215df9baf5c5fce -->
 
 ### Oddíl 2 — Řízení o nárocích škůdců zavázaných k náhradě škody společně a nerozdílně
 
@@ -3895,52 +2213,6 @@ Vnitřní vypořádání mezi škůdci (regres podle § 5 odst. 2) řeší **ste
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ÚOHS / Komise o účastnících a jejich podílech, doklad o úhradě škody poškozenému, podklady o obratu/roli škůdců, evidence o privilegovaném statusu.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=274008319eaf6f37148f generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 33
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> K řízení o nárocích škůdců na vypořádání podle tohoto zákona, kteří jsou zavázáni k náhradě škody společně a nerozdílně, je příslušný soud, který je příslušný k řízení o náhradě škody způsobené omezováním hospodářské soutěže; soud je v řízení vázán rozhodnutím jiných orgánů v rozsahu podle [[občanského soudního řádu|občanského soudního řádu]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=274008319eaf6f37148f -->
 
 ## Hlava IV — Společná a přechodná ustanovení
 
@@ -4002,54 +2274,6 @@ ZNSHS tedy **není svébytným procesním kodexem**, nýbrž lex specialis modif
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=0c8bd5afe11ed0ece919 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 34
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> (1) Nestanoví-li tento zákon jinak, postupuje se v řízení o návrhu na zpřístupnění dokumentů přiměřeně podle [[občanského soudního řádu|občanského soudního řádu]], a není-li to při rozhodování o uložení pokuty možné, podle zákona [[o zvláštních řízeních soudních|o zvláštních řízeních soudních]].
->
-> (2) Nestanoví-li tento zákon jinak, postupuje se v řízení o náhradě škody způsobené omezováním hospodářské soutěže a v řízení o nárocích škůdců na vypořádání, kteří jsou zavázáni k náhradě škody společně a nerozdílně, podle [[občanského soudního řádu|občanského soudního řádu]].
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=0c8bd5afe11ed0ece919 -->
-
 ### § 35 — Vyloučení výkonu rozhodnutí
 
 > **§ 35**
@@ -4098,52 +2322,6 @@ Povinnosti uložené v rámci disclosure **nelze vymáhat exekučně** — jejic
 **Typicky rozhodné podklady:** pravomocné rozhodnutí o povinnosti zpřístupnit, doklad o nesplnění, návrh na řízení o pokutě, vymezení skutečnosti pro adverse inference.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=2c55313f6000d450730b generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 35
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Povinnost zpřístupnit dokumenty nebo sdělit, kde se nacházejí, a povinnost chránit obchodní, bankovní nebo obdobné zákonem chráněné tajemství nemohou být předmětem výkonu rozhodnutí nebo exekuce. Je-li oprávněným podán návrh na výkon rozhodnutí, soud příslušný k nařízení výkonu rozhodnutí jej odmítne; o podaném exekučním návrhu rozhodne soudní exekutor obdobně.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=2c55313f6000d450730b -->
 
 ### § 36 — Přechodné ustanovení
 
@@ -4209,52 +2387,6 @@ SDEU v rozsudku **C-30/20 Volvo AB v. RM** (2022) judikoval, že retroaktivita A
 **Typicky rozhodné důkazy / podklady:** doklady o nákupech s přesnými daty, časové vymezení kartelu, rozhodnutí orgánu ochrany soutěže, podklady k datu zahájení řízení.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=f66b513f3e46fb2391a5 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 36 — Přechodné ustanovení
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Řízení o náhradě škody způsobené omezováním hospodářské soutěže, jakož i řízení o nárocích škůdců, kteří jsou zavázáni k náhradě škody společně a nerozdílně, na vypořádání podle tohoto zákona, zahájená po dni 25. prosince 2014 se dokončí podle tohoto zákona; právní účinky úkonů, které byly v řízení učiněny přede dnem nabytí účinnosti tohoto zákona, zůstávají zachovány.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=f66b513f3e46fb2391a5 -->
 
 ## ČÁST DRUHÁ
 
@@ -4331,79 +2463,6 @@ Komplementární k §§ 15, 16 ZNSHS — leniency žádosti **nikdy** nezpříst
 
 ---
 
-
-<!-- LEGAL-REVISION:BEGIN id=5b70dd9fff55f040a50a generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 37 — Změna zákona o ochraně hospodářské soutěže
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> [[Zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů|Zákon č. 143/2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů]] (zákon [[o ochraně hospodářské soutěže|o ochraně hospodářské soutěže]]), ve znění [[zákona č. 340/2004 Sb|zákona č. 340/2004 Sb.]], [[zákona č. 484/2004 Sb|zákona č. 484/2004 Sb.]], [[zákona č. 127/2005 Sb|zákona č. 127/2005 Sb.]], [[zákona č. 361/2005 Sb|zákona č. 361/2005 Sb.]], [[zákona č. 71/2007 Sb|zákona č. 71/2007 Sb.]], [[zákona č. 296/2007 Sb|zákona č. 296/2007 Sb.]], [[zákona č. 155/2009 Sb|zákona č. 155/2009 Sb.]], [[zákona č. 188/2011 Sb|zákona č. 188/2011 Sb.]], [[zákona č. 360/2012 Sb|zákona č. 360/2012 Sb.]], [[zákona č. 135/2016 Sb|zákona č. 135/2016 Sb.]] a [[zákona č. 293/2016 Sb|zákona č. 293/2016 Sb.]], se mění takto:
->
-> - 1. V § 21c odstavec 5 zní:
->
-> „(5) Z nahlížení do spisu jsou dále vyloučeny ty jeho části, které obsahují žádost o upuštění od uložení pokuty nebo žádost o snížení pokuty podle § 22ba odst. 5 anebo žádost o snížení pokuty podle § 22ba odst. 6 (dále jen „žádost o neuložení nebo snížení pokuty“), jakož i další podklady a informace, které byly žadatelem vypracovány pro účely podání této žádosti a v souvislosti s ní Úřadu předloženy; to platí i pro výzvy a sdělení Úřadu, které Úřad žadatelům v souvislosti s jejich žádostí zaslal. Do těchto částí spisu může za podmínek stanovených v odstavci 1 nahlížet pouze účastník řízení nebo jeho zástupce; § 38 odst. 4 správního řádu se nepoužije.“.
->
-> - 2. Za § 21c se vkládá nový § 21ca, který včetně nadpisu zní:
->
-> ###### „§ 21ca
->
-> ###### Zpřístupnění informací obsažených ve spise
->
-> (1) Žádosti o neuložení nebo snížení pokuty jsou důvěrnými informacemi. Úřad tyto informace nezpřístupňuje, s výjimkou zpřístupnění soudu pro účely přezkumu činnosti Úřadu ve správním soudnictví; to neplatí pro žádost o snížení pokuty podle § 22ba odst. 6, která byla žadatelem vzata zpět.
->
-> (2) Podklady a informace, které byly vypracovány a předloženy pro účely probíhajícího správního řízení ve věci ochrany hospodářské soutěže nebo výkonu dozoru Úřadu podle § 20 odst. 1, jakož i podklady a informace vypracované Úřadem pro tyto účely, je možno zpřístupnit orgánům veřejné moci až po ukončení šetření nebo právní moci rozhodnutí Úřadu o ukončení správního řízení; to neplatí pro přezkum činnosti Úřadu ve správním soudnictví.
->
-> (3) Požádá-li soud Úřad o zpřístupnění žádosti o neuložení nebo snížení pokuty pro ověření, zda její obsah odůvodňuje její nezpřístupnění, umožní Úřad prostřednictvím jím pověřené osoby soudu, aby do ní nahlédl; o tom vyhotoví Úřadem pověřená osoba protokol obsahující rovněž závěr soudu ohledně obsahu žádosti a důvodnosti jejího nezpřístupnění.“.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Výslovné vnitřní odkazy v místním znění: § 21c, § 22ba, § 38, § 21ca, § 20
-
-##### Souvisící předpisy
-
-- zákon č. 143/2001 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 340/2004 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 484/2004 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 127/2005 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 361/2005 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 71/2007 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 296/2007 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 155/2009 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 188/2011 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 360/2012 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 135/2016 Sb. (výslovně uvedeno v místním znění)
-- zákon č. 293/2016 Sb. (výslovně uvedeno v místním znění)
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=5b70dd9fff55f040a50a -->
-
 ## ČÁST TŘETÍ — ÚČINNOST
 
 ### § 38 — Účinnost
@@ -4459,52 +2518,6 @@ Podpisy: zastupující předseda Poslanecké sněmovny Vondráček, prezident Ze
 **Typicky rozhodné podklady:** text Sbírky zákonů s datem vyhlášení, časové vymezení skutkového základu nároku, podklady k aplikaci § 36 a Volvo.
 
 ---
-
-
-<!-- LEGAL-REVISION:BEGIN id=fa271bbbcc371d450740 generator=2026-07-17.4 source_sha256=4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a -->
-#### Revizní doplnění k § 38
-
-> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 3. 4. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
->
-> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2017/262-2017 Zákon o náhradě škody v oblasti hospodářské soutěže a o změně zákona č. 143_2001 Sb., o ochraně hospodářské soutěže a o změně některých zákonů (zákon o ochraně hospodářské soutěže)…-3c27188ee5.md`; identifikátor verze: `SB-2017-00262_2025-04-03`; SHA-256: `4d324a90349d86e9dffd5fdbc5756ead7fcd21812eb6d1f0e3d0a0ee066bb36a`.
-
-##### Znění ustanovení
-
-> Tento zákon nabývá účinnosti prvním dnem kalendářního měsíce následujícího po dni jeho vyhlášení.
-
-##### Přehled výkladu
-
-- [1] Provenience a meze automatického doplnění
-- [2] Nutná ruční právní revize
-- [3] Stav citací původního komentáře
-
-##### Souvisící ustanovení
-
-- Místní znění neobsahuje výslovný vnitřní odkaz.
-
-##### Souvisící předpisy
-
-- Místní znění neobsahuje výslovnou citaci jiného předpisu.
-
-##### Z důvodové zprávy
-
-⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
-
-##### Literatura
-
-⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
-
-##### Výklad
-
-[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
-[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
-[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
-
-##### Judikatura
-
-⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
-
-<!-- LEGAL-REVISION:END id=fa271bbbcc371d450740 -->
 
 ## Poznámky pod čarou
 
